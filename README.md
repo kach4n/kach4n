@@ -50,5 +50,5 @@
 **𝚍𝚎𝚟𝚘𝚙𝚜 & 𝚌𝚕𝚘𝚞𝚍**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,aws,jenkins" />
 </p>
